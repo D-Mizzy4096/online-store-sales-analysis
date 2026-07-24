@@ -1,11 +1,11 @@
-E-COMMERCE SALES ANALYTICS DASHBOARD (MICROSOFT EXCEL)
+E-COMMERCE SALES ANALYTICS DASHBOARD 
 BACKGROUND
-Every successful business generates data, but data alone does not improve decision-making.
+Every successful business generates data, but data alone does not improve decision
+making.
 Imagine being a manager responsible for monitoring daily sales, tracking customer purchases, evaluating marketing campaigns, and ensuring orders are successfully delivered. Reviewing hundreds or even thousands of transaction records manually would be time-consuming and inefficient.
-This project demonstrates how raw e-commerce transaction data can be transformed into an interactive business intelligence dashboard using Microsoft Excel.
+This project demonstrates how raw e-commerce transaction data can be transformed into an interactive business intelligence dashboard using Microsoft Excel. 
 Starting with over 1,200 online store transactions, I cleaned the data, developed meaningful KPIs, built PivotTables, designed interactive visualizations, and created an executive dashboard that enables stakeholders to monitor business performance in real time.
 Rather than simply displaying numbers, the dashboard tells the story behind the business revealing where revenue comes from, which customers create the most value, how marketing campaigns perform, and where operational improvements can be made.
-
 BUSINESS PROBLEM
 The business wanted answers to critical questions such as:
 •	E-Commerce Sales Dashboard | Microsoft Excel
@@ -14,7 +14,6 @@ Project Overview:
 Businesses generate thousands of sales transactions every day, but without proper analysis, valuable insights often remain hidden. The purpose of this project was to transform raw e-commerce transaction data into an interactive Excel dashboard that enables business leaders to monitor performance, evaluate marketing effectiveness, understand customer behaviour, and make informed decisions.
 Using Microsoft Excel, I cleaned and transformed the data, developed key performance indicators (KPIs), created PivotTables and PivotCharts, and designed a two-page executive dashboard with interactive slicers.
 This project demonstrates how Excel can be used as a powerful Business Intelligence (BI) tool for reporting and decision-making.
-
 Business Problem
 •	How much revenue has been generated?
 •	Which products contribute the highest sales?
@@ -124,7 +123,6 @@ Average Order: Value	Revenue per order
 Average Cart Size:	Average items purchased
 Coupon Usage Rate:	Orders using coupons
 Order Completion Rate:	Completed orders (%)
-
 Business Questions Answered
 The dashboard answers questions including:
 •	Which products generate the most revenue?
@@ -135,14 +133,16 @@ The dashboard answers questions including:
 •	How many customers use promotional coupons?
 •	Which orders are pending or completed?
 
+
 Key Insights
 Examples of insights generated from the dashboard:
 •	Promotional coupons influenced a significant proportion of purchases.
 •	Instagram generated the strongest marketing performance.
 •	Revenue was diversified across several products.
 •	A relatively small group of customers generated a high share of total revenue.
-•	Customers purchased multiple products per transaction, suggesting opportunities for bundling and cross-selling.
-•	Monitoring order status helps identify fulfilment bottlenecks.
+•	Customers purchased multiple products per transaction, suggesting opportunities for
+bundling and cross-selling.
+•	Monitoring order status helps identify fulfilment bottlenecks
 
 RECOMMENDATIONS
 Following the analysis, the following recommendations were proposed:
@@ -213,10 +213,10 @@ I enjoy transforming raw datasets into meaningful insights that support business
 Connect With Me
 LinkedIn: https://www.linkedin.com/in/mike-aremu/
 GitHub: https://github.com/D-Mizzy4096
-
 Support
 If you found this project helpful or interesting:
 ⭐ Star this repository
 Fork it
 Share your feedback
+
 Connect with me on LinkedIn
